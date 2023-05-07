@@ -25,7 +25,7 @@ jQuery('.update_to_steadfast').click(function(){
             } else {
                 alert('Error updating order status.');
                 $btn.html(originalText);
-                \$btn.prop('disabled', false);
+                $btn.prop('disabled', false);
             }
             
         },
