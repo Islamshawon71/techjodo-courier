@@ -45,7 +45,6 @@ e.g.
 
 1. Upload `techjodo-courier.php` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Place `<?php do_action('plugin_name_hook'); ?>` in your templates
 
 == Frequently Asked Questions ==
 
@@ -111,4 +110,3 @@ Titles are optional, naturally.
 Markdown uses email style notation for blockquotes and I've been told:
 > Asterisks for *emphasis*. Double it up  for **strong**.
 
-`<?php code(); // goes in backticks ?>`
