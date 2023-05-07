@@ -1,0 +1,11 @@
+button.update_to_steadfast {
+    background: #14bf7d;
+    display: inline-flex;
+    line-height: 2.5em;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+    white-space: nowrap;
+    max-width: 100%;
+    border: none;
+}
